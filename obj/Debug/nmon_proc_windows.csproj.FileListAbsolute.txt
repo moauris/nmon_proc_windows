@@ -1,0 +1,13 @@
+C:\Users\IBM_ADMIN\source\repos\nmon_proc_windows\nmon_proc_windows\bin\Debug\nmon_proc_windows.exe.config
+C:\Users\IBM_ADMIN\source\repos\nmon_proc_windows\nmon_proc_windows\bin\Debug\nmon_proc_windows.exe
+C:\Users\IBM_ADMIN\source\repos\nmon_proc_windows\nmon_proc_windows\bin\Debug\nmon_proc_windows.pdb
+C:\Users\IBM_ADMIN\source\repos\nmon_proc_windows\nmon_proc_windows\obj\Debug\nmon_proc_windows.Form1.resources
+C:\Users\IBM_ADMIN\source\repos\nmon_proc_windows\nmon_proc_windows\obj\Debug\nmon_proc_windows.Properties.Resources.resources
+C:\Users\IBM_ADMIN\source\repos\nmon_proc_windows\nmon_proc_windows\obj\Debug\nmon_proc_windows.csproj.GenerateResource.cache
+C:\Users\IBM_ADMIN\source\repos\nmon_proc_windows\nmon_proc_windows\obj\Debug\nmon_proc_windows.csproj.CoreCompileInputs.cache
+C:\Users\IBM_ADMIN\source\repos\nmon_proc_windows\nmon_proc_windows\obj\Debug\nmon_proc_windows.exe
+C:\Users\IBM_ADMIN\source\repos\nmon_proc_windows\nmon_proc_windows\obj\Debug\nmon_proc_windows.pdb
+C:\Users\IBM_ADMIN\source\repos\nmon_proc_windows\nmon_proc_windows\bin\Debug\nmonproc.dll
+C:\Users\IBM_ADMIN\source\repos\nmon_proc_windows\nmon_proc_windows\bin\Debug\nmonproc.pdb
+C:\Users\IBM_ADMIN\source\repos\nmon_proc_windows\nmon_proc_windows\obj\Debug\nmon_proc_windows.csproj.CopyComplete
+C:\Users\IBM_ADMIN\source\repos\nmon_proc_windows\nmon_proc_windows\obj\Debug\nmon_proc_windows.csprojResolveAssemblyReference.cache
